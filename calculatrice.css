@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#bloc {
+    background-color: #035397;
+    width: 80%;
+    height: 200px;
+    padding: 20px 0;
+    margin: auto;
+}
+
+#info {
+    background-color: yellow;
+    margin: 20px 50px;
+    visibility: hidden;
+}
